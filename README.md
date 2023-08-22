@@ -8,20 +8,17 @@
 
 # Sistema de Login: 
 ```
-Usuários registrados podem fazer login usando suas credenciais. 
-A aplicação valida as credenciais inseridas em relação aos dados armazenados e exibe os detalhes do usuário após um login bem-sucedido.
+Usuários registrados podem fazer login usando suas credenciais. A aplicação valida as credenciais inseridas em relação aos dados armazenados e exibe os detalhes do usuário após um login bem-sucedido.
 ```
 
 # Alteração de Senha: 
-```Os usuários podem alterar suas senhas fornecendo a senha antiga e inserindo a nova senha duas vezes para confirmação.
- A aplicação garante que as senhas coincidam e atualiza os dados armazenados adequadamente.```
+```Os usuários podem alterar suas senhas fornecendo a senha antiga e inserindo a nova senha duas vezes para confirmação. A aplicação garante que as senhas coincidam e atualiza os dados armazenados adequadamente.```
 
 
 # Interface Amigável: 
 ```A aplicação utiliza uma interface baseada em texto clara e estruturada, orientando os usuários por meio de suas escolhas e interações.```
 
-# Como Usar:
-
+# Como Usar
 Clone o repositório em sua máquina local.
 Compile o código-fonte em C++ usando um compilador C++ (por exemplo, g++).
 Execute o executável compilado no seu terminal.

@@ -8,11 +8,13 @@
 
 # Sistema de Login: 
 ```
-Usuários registrados podem fazer login usando suas credenciais. A aplicação valida as credenciais inseridas em relação aos dados armazenados e exibe os detalhes do usuário após um login bem-sucedido.
+Usuários registrados podem fazer login usando suas credenciais. 
+A aplicação valida as credenciais inseridas em relação aos dados armazenados e exibe os detalhes do usuário após um login bem-sucedido.
 ```
 
 # Alteração de Senha: 
-```Os usuários podem alterar suas senhas fornecendo a senha antiga e inserindo a nova senha duas vezes para confirmação. A aplicação garante que as senhas coincidam e atualiza os dados armazenados adequadamente.```
+```Os usuários podem alterar suas senhas fornecendo a senha antiga e inserindo a nova senha duas vezes para confirmação.
+ A aplicação garante que as senhas coincidam e atualiza os dados armazenados adequadamente.```
 
 
 # Interface Amigável: 
